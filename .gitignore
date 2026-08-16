@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Streamlit secrets (keep config.toml tracked)
+.streamlit/secrets.toml
+
+# OS Files
+.DS_Store
+Thumbs.db
